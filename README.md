@@ -1,1 +1,6 @@
-first do npm install and then npm start
+## Setup Instructions
+
+1. Install dependencies:
+```bash
+npm install
+npm start
