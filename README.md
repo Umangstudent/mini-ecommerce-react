@@ -1,1 +1,1 @@
-first do nmp install then npm start
+first do npm install and then npm start
